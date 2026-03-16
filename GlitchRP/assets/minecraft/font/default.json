@@ -12,8 +12,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/player.png",
-            "ascent": 10,
-            "height": 10,
+            "ascent": 12,
+            "height": 14,
             "chars": [
                 "\u2EE3"
             ]
@@ -21,8 +21,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/ping.png",
-            "ascent": 11,
-            "height": 11,
+            "ascent": 13,
+            "height": 13,
             "chars": [
                 "\u2EE4"
             ]
