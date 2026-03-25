@@ -1,0 +1,87 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 25,
+            "height": 120,
+            "chars": [
+                "\u00D7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player.png",
+            "ascent": 12,
+            "height": 14,
+            "chars": [
+                "\u2EE3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ping.png",
+            "ascent": 13,
+            "height": 13,
+            "chars": [
+                "\u2EE4"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/yellow.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uAC06"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/red.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uAC05"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/blue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uAC04"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/green.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uAC03"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/purple.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uAC02"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/gray.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uAC01"
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/passport_border"
+	},
+	"display": {
+		"gui": {
+			"translation": [25, 33, 0],
+			"scale": [3.5, 3.5, 3.5]
+		}
+	}
+}
