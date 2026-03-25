@@ -1,10 +1,10 @@
 {
+	"oversized_in_gui": true,
 	"model": {
 		"type": "minecraft:special",
 		"base": "minecraft:item/avatar",
 		"model": {
-			"type": "minecraft:head",
-		    "kind": "player"
+			"type": "player_head"
 		}
     }
 }

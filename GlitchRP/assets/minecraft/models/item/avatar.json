@@ -6,8 +6,9 @@
   "gui_light": "front",
   "display": {
     "gui": {
-      "translation": [6.5, 15, 0],
-      "scale": [0, 0, 0]
+			"translation": [0, 15, -80],
+			"rotation": [0, 90, 0],
+			"scale": [4, 4, 4]
     }
   }
 }
